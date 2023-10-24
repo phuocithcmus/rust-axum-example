@@ -8,3 +8,5 @@ cargo generate --git https://github.com/phuocithcmus/rust-axum-example.git
 ```typescript
   Enter your project name and start your project
 ```
+
+Visit: [https://github.com/phuocithcmus/rust-axum-example](https://github.com/phuocithcmus/rust-axum-example).
